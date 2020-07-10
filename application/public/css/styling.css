@@ -1,0 +1,53 @@
+.row{
+    margin: 0 !important;
+}
+
+.explanation{
+    text-align: center;
+    font-size: 32px;
+}
+
+.linkBar{
+    margin: auto;
+    text-align: center;
+}
+
+.navLink{
+    margin: 5px;
+}
+
+.logoWrap{
+    margin: auto;
+    max-width: fit-content;
+}
+
+.logo{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.companyInfoWrap{
+    margin-left: 1%;
+    margin-right: 1%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.employeeInfoWrap{
+    min-height: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.employeeSingleWrap{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.employeeTotal{
+    font-size: 24px;
+    font-weight: 600;
+}
